@@ -1,0 +1,14 @@
+baseURL: https://www.anwarresearch.com
+googleAnalytics: UA/G-123123-12
+languageCode: en-us
+enableEmoji: yes
+theme: avicenna
+title: Dr Md Anwar Hossain
+paginate: 10
+markup:
+  tableOfContents:
+    endLevel: 3
+    ordered: no
+    startLevel: 1
+params:
+  name: Md Anwar Hossain
